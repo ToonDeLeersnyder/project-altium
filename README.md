@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+hi everyone i am Toon.
+i study elektro ict at the PXL university.
