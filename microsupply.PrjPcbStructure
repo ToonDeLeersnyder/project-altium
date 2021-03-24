@@ -1,6 +1,2 @@
-Record=TopLevelDocument|FileName=capacitors.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=capacitors.SchDoc|FileName=deel2.SchDoc|SheetNumber=6
-Record=NoMainPathDocument|SourceDocument=capacitors.SchDoc|FileName=Electro-mechanical.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=capacitors.SchDoc|FileName=resistors.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=capacitors.SchDoc|FileName=semiCon.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=capacitors.SchDoc|FileName=totaal.SchDoc|SheetNumber=5
+Record=TopLevelDocument|FileName=deel2.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=deel2.SchDoc|FileName=totaal.SchDoc|SheetNumber=1
